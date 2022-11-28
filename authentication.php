@@ -16,6 +16,7 @@
           
         if($count == 1){  
             echo "<h1><center> Login successful </center></h1>";
+            
             header("Location:website.html");   
         }  
         else{  
