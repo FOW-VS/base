@@ -38,8 +38,8 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
                     <a class="nav-link" href="#exploreMenuSection" id="navItem2">Explore Menu</a>
                     <a class="nav-link" href="#deliveryPaymentSection" id="navItem3">Delivery & Payment</a>
                     <a class="nav-link" href="#followUsSection" id="navItem4">Follow Us</a>
-                    <b class="btn btn-danger ml-3"><?php echo htmlspecialchars($_SESSION["username"]); ?></b>
                     
+                    <b class="btn btn-danger ml-3 mr-3"><?php echo htmlspecialchars($_SESSION["username"]); ?></b>
                     <a class="btn btn-warning" href="logout.php">Log out</a>
                 </div>
             </div>
