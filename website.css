@@ -273,3 +273,45 @@
     font-family: "Roboto";
     font-size: 14px;
 }
+
+.wrapper
+{
+    width: 360px; 
+    padding: 20px; 
+    margin-top: 12%;
+    margin-left: 37%;
+    margin-bottom: 10%;
+    background-color: white;
+}
+
+.bg-container
+{
+    background-color: #F2E277;
+}
+
+.wrapper-heading
+{
+    font-family: 'Times New Roman';
+}
+
+.button
+{
+    width: 100%;
+    color: white;
+    font-weight: bold;
+    background-color: #4db8ff;
+    padding: 7px;
+    border-radius: 5px;
+    border-style: none;
+}
+
+.button1
+{
+    width: 100%;
+    color: white;
+    font-weight: bold;
+    background-color: #47d147;
+    padding: 7px;
+    border-radius: 5px;
+    border-style: none;
+}
