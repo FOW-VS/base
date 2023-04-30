@@ -1,16 +1,9 @@
-/* 
-    Author: Vijay Thapa;
-    Theme: Restaurant Food Order;
-    version: 1.0;
-*/
-
-/* CSS for All */
 *{
     margin: 0 0;
     padding: 0 0;
     font-family: Arial, Helvetica, sans-serif;
 }
-.container{
+.container1{
     width: 80%;
     margin: 0 auto;
     padding: 1%;
@@ -40,26 +33,26 @@
     float: none;
 }
 
-a{
+.link1{
     color: #ff6b81;
     text-decoration: none;
 }
-a:hover{
+.link1:hover{
     color: #ff4757;
 }
 
-.btn{
+.btn1{
     padding: 1%;
     border: none;
     font-size: 1rem;
     border-radius: 5px;
 }
-.btn-primary{
+.btn1-primary{
     background-color: #ff6b81;
     color: white;
     cursor: pointer;
 }
-.btn-primary:hover{
+.btn1-primary:hover{
     color: white;
     background-color: #ff4757;
 }
